@@ -1,0 +1,19 @@
+{
+  "name": "react-data-grid-addons-no-errors",
+  "version": "0.0.1",
+  "description": "React Data Grid without CSS Loading issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicholaspsmith/React-Data-Grid-Addons.git"
+  },
+  "author": "Nicholaspsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaspsmith/React-Data-Grid-Addons/issues"
+  },
+  "homepage": "https://github.com/nicholaspsmith/React-Data-Grid-Addons#readme"
+}
